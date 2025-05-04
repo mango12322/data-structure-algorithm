@@ -6,9 +6,9 @@
 
 ## ✅ 진행 상황
 
-- [x] List - 리스트
-- [x] Stack - 스택
-- [x] Queue - 큐
+- [ ] List - 리스트
+- [ ] Stack - 스택
+- [ ] Queue - 큐
 - [ ] Hash - 해시
 - [ ] Sort - 정렬
 - [ ] Tree - 트리
